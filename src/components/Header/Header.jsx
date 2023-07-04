@@ -59,17 +59,17 @@ const Header = () => {
                 </li>
                     <li>
                       <Link  style={{ fontWeight: "bold"}} to="aboutUs" spy={true} smooth={true}>
-                        d
+                        Contact
                       </Link>
                     </li>
                     <li>
                       <Link  style={{ fontWeight: "bold"}} to="aboutUs" spy={true} smooth={true}>
-                        v
+                        Company
                       </Link>
                     </li>
                     <li>
                       <Link  style={{ fontWeight: "bold"}} to="aboutUs" spy={true} smooth={true}>
-                        ds
+                        Pricing
                       </Link>
                     </li>
 
@@ -78,7 +78,7 @@ const Header = () => {
 
             <div className="nav__right">
               <p className="mb-0 d-flex align-items-center gap-2">
-                <i className="ri-phone-line"></i> +88 0123456789
+                <i className="ri-phone-line"></i> +1(407)545-3103
               </p>
             </div>
           </div>
